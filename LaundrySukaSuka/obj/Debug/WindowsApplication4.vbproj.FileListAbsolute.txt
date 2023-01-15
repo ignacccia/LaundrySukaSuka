@@ -1,0 +1,10 @@
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Admin Laundry.exe.config
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Admin Laundry.exe
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Admin Laundry.pdb
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Admin Laundry.xml
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\Admin Laundry.exe
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\Admin Laundry.xml
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\Admin Laundry.pdb

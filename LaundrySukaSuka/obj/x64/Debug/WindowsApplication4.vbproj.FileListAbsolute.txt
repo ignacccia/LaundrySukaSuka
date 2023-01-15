@@ -1,0 +1,34 @@
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.Form1.resources
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.Resources.resources
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.exe.config
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.exe
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.pdb
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.exe
+c:\users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.pdb
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.LoginForm1.resources
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.LoginForm2.resources
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.LoginForm3.resources
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.exe.manifest
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.application
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.TrustInfo.xml
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.exe.manifest
+C:\Users\dwisa\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.application
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.exe.config
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.exe.manifest
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.application
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.exe
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\bin\x64\Debug\Admin Laundry.pdb
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.vbproj.AssemblyReference.cache
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.Form1.resources
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.LoginForm1.resources
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.LoginForm2.resources
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.LoginForm3.resources
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.Resources.resources
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.vbproj.GenerateResource.cache
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\WindowsApplication4.vbproj.CoreCompileInputs.cache
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.TrustInfo.xml
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.exe.manifest
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.application
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.exe
+D:\3\Pemrograman Dekstop\TUGAS\LaundrySukaSuka\WindowsApplication4\WindowsApplication4\obj\x64\Debug\Admin Laundry.pdb
